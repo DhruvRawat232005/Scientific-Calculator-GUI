@@ -24,12 +24,10 @@ Inspired by the iPhone calculator, this app combines style with full scientific 
   - Factorial: `n!`
 - **Aesthetic UI**:
   - Dark mode theme
-  - iPhone-inspired button colors
   - Responsive font and layout
-- Built using:
+- **Built using**:
   - Java SE
   - Java Swing (`JFrame`, `JPanel`, `JButton`, `JTextField`)
-  - No external libraries or tools
 
 ---
 
